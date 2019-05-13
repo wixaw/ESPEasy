@@ -1,3 +1,7 @@
+Merci @toniA Fonctionne parfaitement avec ma clim mitsubishi
+
+Fork en backup
+
 # ESPEasy (development branch)
 
 Badge  | Info  |
